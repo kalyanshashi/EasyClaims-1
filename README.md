@@ -70,6 +70,51 @@ To remove the modified changes (in case required):
 Commit the files to your local branch:
 
 	git commit -a -m “<Appropriate message>”
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Scenario 1:
+how can you help  me?
+Scenario 2:
+i want to create claim?
+Scenario 3:
+what are the documents needed for car insurance claim?
+Scenario 4:
+Claim Status
+
+Today I am going to present mobile application which we developed for reducing customer calls queries related to purchasing policies and raising claims as part of hackathon.
+
+This application has two roles admin and customer.
+Admin has the authority to create new policies introduced by company and can approve claims raised by customers.
+Whereas customer can sign up, login and purchase or subscribe (if paid) any policies added by admin. Customer can raise claims for policies subscribed or bought.
+Customer can also check the Information about claims process or documents , check claim status via artificial intelligence chat bot.
+This chatbot has different capabilities .we have added few important scenarios as part of implementation.
+
+We have implemented this implementation with latest technologies which results best productivity in less time.
+The technologies we have used are python which Improved Programmer’s Productivity and it has extensive support libraries and clean object-oriented designs that increase two to tenfold of programmer’s productivity while using the languages like Java, VB, Perl, C, C++ and C#.
+Django rest framework we have used as it has rich amount of libraries for commonly used requirements without reinventing wheel from scratch. This improves productivity.
+
+Postgresql we have used as it supports object orieneted database and django supports objects relational management. Django orm makes easy of process for db transactions and also in future if we want change db we can change db in with in one minute.
+Semaphore CI/CD is to make the deployment automated. The important feature of this tool is it will build and deploy the application in less than 10 minutes. So less worry about manual support of deployment as it is automated. It has the capability to host application in any one of the cloud  as of now we have used heroku for hosting.
+Dialog flow API is used to make chatbot work with intelligence and it also supports various local languages. So if customer is from other than english language this application can integrate that language and we provide customer support across the world
+
 
 Push the changes to your remote branch:
 
